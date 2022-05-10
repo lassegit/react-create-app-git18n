@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 const defaultLocale = 'en';
 const locales = ['de', 'dk'];
-const locale = 'en';
+const locale = 'dk';
 
 const messages = locales.reduce((acc, cur) => {
   try {

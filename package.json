@@ -18,7 +18,7 @@
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject",
-    "translate": "git18n --files '(src)/**/*.js*'"
+    "translate": "git18n --files 'src/**/*.js*'"
   },
   "eslintConfig": {
     "extends": [
